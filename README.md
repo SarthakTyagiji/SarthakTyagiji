@@ -1,4 +1,5 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xpBuOfOAQ4J8D1vAyncmbg.gif)](https://rishavchanda.io)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhffteMazTlKZ0t0HNIftXgI5sq0Wt5nlBLl1VN6WySgbJi_JV6zIuX8V4Z7ZTmzEzs_7LY5Rgh2VVM3qT5XQbt4sgIcvjtNgvFbf6CnyC2SkX0RCB0ju_1tW6uIoW5C4S9xw16S3QMKpCtLG1h0Aam23_e-OzmmU2XJmiXSH7Fgclj1kk4hgTBKXA_JYIn/s1600/ezgif-5-e3f03cee2e.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Sarthak Tyagi</h1>
 <h3 align="center">A passionate Cloud Computing and DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
